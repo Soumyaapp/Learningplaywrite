@@ -9,3 +9,7 @@ console.log(c++ + c);
 let d = 10;
 console.log(d++ + ++d);
 console.log(d);
+
+let e = 10;
+console.log(++e + ++e);
+console.log(e);
